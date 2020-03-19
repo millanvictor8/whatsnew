@@ -1,5 +1,3 @@
-package wn;
-
 import wn.wn7.MenuJava7;
 import wn.wn8.MenuJava8;
 
