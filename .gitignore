@@ -2,3 +2,5 @@
 /WhatsNew/.settings
 /WhatsNew/bin
 /WhatsNew/.classpath
+target
+.settings
