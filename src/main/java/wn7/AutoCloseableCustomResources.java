@@ -10,6 +10,8 @@ public class AutoCloseableCustomResources implements AutoCloseable {
 		System.out.println("Something -> AutoCloseableResources");
 	}
 
+
+
 	@Override
 	public void close() throws Exception {
 		System.out.println("Close -> AutoCloseableResources");
